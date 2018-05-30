@@ -18,7 +18,7 @@
           </span>
         </span>
         <span class="title-v-img">
-          {{ titles[currentImageIndex] }}
+          testet{{ titles[currentImageIndex] }}
         </span>
         <div class="buttons-v-img">
           <span v-if="sourceButtons[currentImageIndex]">
